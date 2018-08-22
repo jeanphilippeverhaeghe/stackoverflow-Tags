@@ -1,0 +1,5 @@
+<form action="{% url "saisie_question" %}" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Demander une proposition de tags " />
+</form>
