@@ -26,7 +26,7 @@ SECRET_KEY = '54d+#yj4@eaj7#sz=db+e38uay*^%@o5l6vddb$vz-glq32%**'
 DEBUG = True
 
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['sof-predict.herokuapp.com']
+ALLOWED_HOSTS = ['sof-tags.herokuapp.com']
 
 
 # Application definition
